@@ -1,1 +1,2 @@
 - [Download apk](https://github.com/Megagonn/rider-apk/raw/main/app-release.apk)
+- [Download apk](https://github.com/Megagonn/rider-apk/raw/main/app.apk)
